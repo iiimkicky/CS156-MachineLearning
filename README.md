@@ -1,2 +1,2 @@
-# wip
-portfolio website wip
+# CS156 Maching Learning
+School Projects
